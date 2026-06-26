@@ -1,1 +1,2 @@
 # Fibonacci-series
+This Python program generates the Fibonacci series. It starts with 0 and 1, then each next number is the sum of the previous two numbers. The user enters the number of terms to display, and the program prints the Fibonacci series up to that many terms.
